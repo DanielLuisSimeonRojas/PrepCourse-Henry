@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repository trial of Henry's module 2
+Este es un archivo que use para aprender a crear repositorio y clonarlo a mi repositorio local
